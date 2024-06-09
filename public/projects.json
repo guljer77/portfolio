@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "live_link": "http://localhost:5174/portfolio",
+    "source-code": "",
+    "title": "Finance",
+    "category": "Web development",
+    "image": "../src/assets/project-1.jpg"
+  },
+  {
+    "id": 2,
+    "live_link": "",
+    "source-code": "",
+    "title": "Orizon",
+    "category": "Web development",
+    "image": "../src/assets/project-2.png"
+  },
+  {
+    "id": 3,
+    "live_link": "",
+    "source-code": "",
+    "title": "Fundo",
+    "category": "Web design",
+    "image": "../src/assets/project-3.jpg"
+  },
+  {
+    "id": 4,
+    "live_link": "",
+    "source-code": "",
+    "title": "Brawlhalla",
+    "category": "Web development",
+    "image": "../src/assets/project-4.png"
+  },
+  {
+    "id": 5,
+    "live_link": "",
+    "source-code": "",
+    "title": "DSM.",
+    "category": "Web design",
+    "image": "../src/assets/project-5.png"
+  },
+  {
+    "id": 6,
+    "live_link": "",
+    "source-code": "",
+    "title": "MetaSpark",
+    "category": "Web design",
+    "image": "../src/assets/project-6.png"
+  },
+  {
+    "id": 7,
+    "live_link": "",
+    "source-code": "",
+    "title": "Summary",
+    "category": "Web development",
+    "image": "../src/assets/project-7.png"
+  },
+  {
+    "id": 8,
+    "live_link": "",
+    "source-code": "",
+    "title": "Task Manager",
+    "category": "Web design",
+    "image": "../src/assets/project-8.jpg"
+  },
+  {
+    "id": 9,
+    "live_link": "",
+    "source-code": "",
+    "title": "Arrival",
+    "category": "Web development",
+    "image": "../src/assets/project-9.png"
+  }
+]

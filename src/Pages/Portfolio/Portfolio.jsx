@@ -35,6 +35,7 @@ function Portfolio() {
           <Link
             className="bg-gray-600 p-1 rounded text-[12px]"
             to={item?.live_link}
+            target="_blank"
           >
             Live Link
           </Link>

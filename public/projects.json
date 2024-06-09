@@ -5,7 +5,7 @@
     "source-code": "",
     "title": "Finance",
     "category": "Web development",
-    "image": "../src/assets/project-1.jpg"
+    "image": "https://ibb.co/4KnPcX6"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "source-code": "",
     "title": "Orizon",
     "category": "Web development",
-    "image": "../src/assets/project-2.png"
+    "image": "https://ibb.co/SndF4tX"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "source-code": "",
     "title": "Fundo",
     "category": "Web design",
-    "image": "../src/assets/project-3.jpg"
+    "image": "https://ibb.co/1JfqKq6"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "source-code": "",
     "title": "Brawlhalla",
     "category": "Web development",
-    "image": "../src/assets/project-4.png"
+    "image": "https://ibb.co/KNw31WS"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "source-code": "",
     "title": "DSM.",
     "category": "Web design",
-    "image": "../src/assets/project-5.png"
+    "image": "https://ibb.co/DK8PXJH"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "source-code": "",
     "title": "MetaSpark",
     "category": "Web design",
-    "image": "../src/assets/project-6.png"
+    "image": "https://ibb.co/mhDjn42"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "source-code": "",
     "title": "Summary",
     "category": "Web development",
-    "image": "../src/assets/project-7.png"
+    "image": "https://ibb.co/T2zyJM9"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "source-code": "",
     "title": "Task Manager",
     "category": "Web design",
-    "image": "../src/assets/project-8.jpg"
+    "image": "https://ibb.co/kmVPTBP"
   },
   {
     "id": 9,
@@ -69,6 +69,6 @@
     "source-code": "",
     "title": "Arrival",
     "category": "Web development",
-    "image": "../src/assets/project-9.png"
+    "image": "https://ibb.co/DkHgggf"
   }
 ]
